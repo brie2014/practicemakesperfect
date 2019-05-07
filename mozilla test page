@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf=8">
+		<title> My test page </title>
+		<h1>Mozilla Firefox </h1>
+	</head>
+	<body>
+
+		<img src="images/firefox-icon.png" alt="My test image">
+
+		<p>Mozilla Firefox is a web browser many people enjoy using. At Mozila, we're a global community of </p>
+
+		<ol> 
+			<li>technologists</li>
+			<li>thinkers</li>
+			<li>builders</li>
+
+		<p>working together to keep the internet alive and accessible, so people worldwide can be informed creators and contributors of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.</p>
+
+		<a> href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
+	</body>
+</html>
